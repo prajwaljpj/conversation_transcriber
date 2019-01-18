@@ -26,3 +26,7 @@ python3 pp.py
 		* l_channel : contains left channel transcriptions with __word timings__
 		* r_channel : contains right channel transcriptions with __word timings__
 		* __final__ : __Conversation Transcription__
+
+## Authors/Maintainer
+
+* Prajwal Rao - [prajwaljpj@gmail.com](mailto:prajwaljpj@gmail.com), [prajwalrao@iisc.ac.in](mailto:prajwalrao@iisc.ac.in)
