@@ -2,6 +2,8 @@
 
 ## Setup and Run
 
+__REQUIRES KALDI AND OTHER PACKAGES__
+
 * Change __batch_config.sh__ file according to your requirements
 * Create file(files.txt) with all paths for audio
 files.txt
